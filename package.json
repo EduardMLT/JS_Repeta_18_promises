@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://EduardMLT.github.io/JS_Repeta_18_promises",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /JS_Repeta_18_promises/"
   },
   "repository": {
     "type": "git",
@@ -16,8 +17,7 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/luxplanjay/js-22/issues"
-  },
-  "homepage": "https://github.com/luxplanjay/js-22#readme",
+  },  
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
     "parcel-plugin-handlebars-precompile": "^1.0.2",
